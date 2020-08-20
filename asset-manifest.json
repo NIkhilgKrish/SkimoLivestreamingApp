@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/SkimoLivestreamingApp/static/css/main.5f361e03.chunk.css",
+    "main.js": "/SkimoLivestreamingApp/static/js/main.b93776a0.chunk.js",
+    "main.js.map": "/SkimoLivestreamingApp/static/js/main.b93776a0.chunk.js.map",
+    "runtime-main.js": "/SkimoLivestreamingApp/static/js/runtime-main.d2a8075e.js",
+    "runtime-main.js.map": "/SkimoLivestreamingApp/static/js/runtime-main.d2a8075e.js.map",
+    "static/js/2.722b9451.chunk.js": "/SkimoLivestreamingApp/static/js/2.722b9451.chunk.js",
+    "static/js/2.722b9451.chunk.js.map": "/SkimoLivestreamingApp/static/js/2.722b9451.chunk.js.map",
+    "index.html": "/SkimoLivestreamingApp/index.html",
+    "precache-manifest.82f88f3a562b04c1be5139d027848028.js": "/SkimoLivestreamingApp/precache-manifest.82f88f3a562b04c1be5139d027848028.js",
+    "service-worker.js": "/SkimoLivestreamingApp/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/SkimoLivestreamingApp/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.722b9451.chunk.js.LICENSE.txt": "/SkimoLivestreamingApp/static/js/2.722b9451.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/SkimoLivestreamingApp/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d2a8075e.js",
+    "static/js/2.722b9451.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.b93776a0.chunk.js"
+  ]
+}
